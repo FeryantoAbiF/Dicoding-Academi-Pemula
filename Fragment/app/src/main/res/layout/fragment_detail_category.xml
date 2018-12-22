@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".DetailCategoryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_categoty_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category Name"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tv_categoty_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category Description"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btn_show_profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ke Halaman Activity"/>
+
+    <Button
+        android:id="@+id/btn_show_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tampilkan Sebuah Dialog"/>
+
+</LinearLayout>

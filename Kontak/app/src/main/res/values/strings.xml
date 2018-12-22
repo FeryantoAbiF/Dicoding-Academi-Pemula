@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kontak</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="sman_14_bandung">SMAN 14 BANDUNG</string>
+    <string name="web">www.saman14bandung.com</string>
+    <string name="instagram">sman14bandung</string>
+    <string name="fb">SMAN14BANDUNG</string>
+    <string name="telp">082295103327</string>
+    <string name="whatsapp">082295103327</string>
+</resources>

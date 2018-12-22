@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wanita Paling Berpengaruh</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
